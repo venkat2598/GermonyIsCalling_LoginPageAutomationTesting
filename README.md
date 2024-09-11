@@ -13,7 +13,7 @@ I have written a code for run our test script in Multiple Browser Support.
 
 **Selenium With Java** - which is used for Write an web Application  Automation script using this framework.
 
-**TestNG** - Maintain our testcases,Execution order and run our testcases , Test suite.
+**TestNG** - Maintain our testcases,Execution order and run our testcases , Test suite,Generated testng html Report.
 
 **Listeners Package** - Listen our test script start to end if any failure in test then  it will automatically take screenshot and also multiple feature is there inside the listeners.
 
